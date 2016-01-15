@@ -1,0 +1,6 @@
+# reflections
+
+When would you want to use a remote repository rather than keeping all your work local?
+
+Whenever you have a file that you are fine with keeping public, that you want others to be able to see/pull/collaborate on,
+or that you will be working on multiple locations from
